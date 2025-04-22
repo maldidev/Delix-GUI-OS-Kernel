@@ -1,0 +1,1 @@
+<class 'pathlib._local.Path'>Êà#FÑýJïf6,O`õ	Äj8nj67kv±ø$Á-õUa)Çz¹ë)KÃèiöÖcÂ5{·l·y3QK¨ñB)ÏýæË^tÊw+ýéD¦«í#
